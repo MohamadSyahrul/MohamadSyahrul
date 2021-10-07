@@ -9,7 +9,7 @@
     <img align="left" alt="yungLinkein" width="35px" src="https://img.icons8.com/ios-glyphs/120/ffffff/linkedin.png" />
 </a>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mohamadsyahrul" alt="yuuunggg" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=mohamadsyahrul" alt="yuuunggg" /></p>
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
