@@ -91,7 +91,5 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
     <a href="https://github.com/MohamadSyahrul?tab=repositories" target="blank"><img
             src="https://github-readme-stats.vercel.app/api?username=MohamadSyahrul&show_icons=true&count_private=true&include_all_commits=true"
             alt="MohamadSyahrul github statistics" /></a>
-    <a href="https://wakatime.com/@mohamadsyahrul" target="blank"><img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadSyahrul&layout=compact"
-            alt="yuungg wakatime " /></a>
+
 </p>
