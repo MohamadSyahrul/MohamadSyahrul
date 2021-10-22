@@ -1,15 +1,25 @@
 ### Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Call Me Yuung <img align="right" src="https://komarev.com/ghpvc/?username=mohamadsyahrul" alt="yuuunggg" />
 
+<img width="62%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
+
+<a href="https://www.linkedin.com/in/mochamad-syahrul-samsudin-bb06891a5/">
+    <img align="left" alt="yungLinkein" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+</a>
+<a href="https://www.instagram.com/yuuunggg_">
+    <img align="left" alt="yungInstagram" width="35px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
+</a>
+
+<br>
+<br>
+
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
-<img width="62%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
 
 **About Personal:**
 
 + 👨🏽‍💻 I am currently a freelance work Web Programming,
 + 📱 I am currently learning about Mobile,
 + 📧 How to reach me mochamadsahrul.freelance@gmail.com
-
 
 **Languages and Tools:**
 
@@ -68,7 +78,6 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
 </a>
 
-<br>
 <br>
 <br>
 
