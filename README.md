@@ -1,19 +1,8 @@
-### Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Call Me Yuung
-
-<a href="https://www.instagram.com/yuuunggg_">
-    <img align="left" alt="yungInstagram" width="35px"
-        src="https://img.icons8.com/material-outlined/192/ffffff/instagram-new--v1.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/mochamad-syahrul-samsudin-bb06891a5/">
-    <img align="left" alt="yungLinkein" width="35px" src="https://img.icons8.com/ios-glyphs/120/ffffff/linkedin.png" />
-</a>
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=mohamadsyahrul" alt="yuuunggg" /></p>
+### Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Call Me Yuung <img align="right" src="https://komarev.com/ghpvc/?username=mohamadsyahrul" alt="yuuunggg" />
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
-<img width="60%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
+<img width="62%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
 
 **About Personal:**
 
@@ -82,14 +71,11 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 **Statistics:**
+
 <p align="left">
     <a href="https://github.com/MohamadSyahrul?tab=repositories" target="blank"><img
             src="https://github-readme-stats.vercel.app/api?username=MohamadSyahrul&show_icons=true&count_private=true&include_all_commits=true"
             alt="MohamadSyahrul github statistics" /></a>
-
 </p>
