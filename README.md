@@ -45,14 +45,6 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
     <img height="28"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg">
 </a>
-<a href="https://github.com/topics/vuejs" target="blank">
-    <img height="28"
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg">
-</a>
-<a href="https://github.com/topics/flutter" target="blank">
-    <img height="28"
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg">
-</a>
 <a href="https://github.com/topics/mysql" target="blank">
     <img height="28"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
