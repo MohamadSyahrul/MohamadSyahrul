@@ -26,6 +26,10 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 <a href="https://github.com/topics/php" target="blank">
     <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </a>
+<a href="https://github.com/topics/vscode" target="blank">
+    <img height="28"
+        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original.svg">
+</a>
 <a href="https://github.com/topics/laravel" target="blank">
     <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </a>
